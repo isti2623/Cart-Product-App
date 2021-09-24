@@ -1,0 +1,12 @@
+.product-part{
+    
+    border: 1px solid black;
+    width: 150px;
+}
+.rate-part{
+    display: flex;
+    
+}
+.price{
+    margin-right: 30px;
+}

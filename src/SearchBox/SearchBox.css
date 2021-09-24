@@ -1,0 +1,9 @@
+.search-part{
+    background-color: black;
+}
+.search{
+    margin-left:350px;
+    width: 40%;
+    border-bottom: none;
+    box-shadow: 2px 5px #070707;
+}
